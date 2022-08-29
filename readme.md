@@ -1,6 +1,6 @@
 ## 春风系统
 
-![icon](img/icon.png)
+<img src="img/icon.png#pic_left" alt="icon" style="zoom:100%;" align="center" />
 
 春风（TrʌnFʌŋ）系统的目标是更好地服务人民教师，将老师们从繁杂琐碎的日常事务中解放出来，让老师能够专注于教育本身。
 
